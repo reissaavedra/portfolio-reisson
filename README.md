@@ -1,3 +1,7 @@
+# portfolio-reisson
+
+Web portfolio Reisson Saavedra
+
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
@@ -88,8 +92,4 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-# portfolio-reisson
-
-Web portfolio Reisson Saavedra
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
