@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'I hold a Bsc degree from Universidad Nacional de Trujillo. I am specialized in Big Data and Machine Learning applied to financial markets and healthcare.',
   paragraphTwo:
-    'Winner of MIT Hackathon Hack4TheFuture 2020 with the project Anmol Saathi(a platform for decentralized access to basic healthcare services to people resident in rural areas).\nActivately I participate as a volunteer in DSRP (mentoring professionals starting in data science and IA) and <a>PathCheck Foundation</> (ML Engineer and Data Engineer)',
+    'Winner of MIT Hackathon Hack4TheFuture 2020 with the project Anmol Saathi(a platform for decentralized access to basic healthcare services to people resident in rural areas).\nActivately I participate as a volunteer in DSRP (mentoring professionals starting in data science and IA) and PathCheck Foundation(ML Engineer and Data Engineer)',
   paragraphThree:
     'Currently, I am researching topics like Portfolio Optimization using Deep-RL and use of AI to minimize the impact of climate change',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
